@@ -64,4 +64,6 @@ Please cite our paper if this information can help you.
     journal = {Wireless World Research Forum Meeting 50 (WWRF #50)}
 
 }
+# Contact
 
+Gökham Kalem (gokhan.kalem@turkcell.com.tr)
